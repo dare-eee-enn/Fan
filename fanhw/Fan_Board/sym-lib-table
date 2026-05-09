@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Fan_Symbols") (type "KiCad") (uri "${KIPRJMOD}/Fan_Symbols.kicad_sym") (options "") (descr ""))
+	(lib (name "2171750001") (type "KiCad") (uri "${KIPRJMOD}/Kicad_Footprints/2171750001.kicad_sym") (options "") (descr ""))
+)
